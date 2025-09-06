@@ -46,4 +46,6 @@
 ---
 
 ✍️ **Random Dev Quote**  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+> *["That brain of mine is something more than merely mortal, as time will show."](https://en.wikipedia.org/wiki/Ada_Lovelace)*  
+— Ada Lovelace  
+

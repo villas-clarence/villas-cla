@@ -24,8 +24,15 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)  
 [![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)](https://getcomposer.org/)  
 
-
 ---
+
+📌 **Projects / Featured Work**  
+Here are some repositories I’ve worked on:  
+
+- 🔹 [**villas-cla**](https://github.com/villas-clarence/villas-cla) – Personal profile & GitHub README customization  
+- 🔹 [**YourProject1**](https://github.com/villas-clarence/YourProject1) – *(short description here)*  
+- 🔹 [**YourProject2**](https://github.com/villas-clarence/YourProject2) – *(short description here)*  
+- 🔹 [**YourProject3**](https://github.com/villas-clarence/YourProject3) – *(short description here)*  
 
 👉 Check out more of my work [here](https://github.com/villas-clarence?tab=repositories).  
 
@@ -34,7 +41,11 @@
 📊 **GitHub Stats**  
 ![](https://github-readme-stats.vercel.app/api?username=villas-clarence&show_icons=true&theme=tokyonight)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=villas-clarence&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=villas-clarence&layout=compact&theme=tokyonight)  
+
+---
+
+📌 **Most Used Languages**  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=villas-clarence&langs_count=10&theme=tokyonight&layout=compact)  
 
 ---
 

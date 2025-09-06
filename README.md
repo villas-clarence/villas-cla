@@ -1,4 +1,5 @@
 # 🌱 Get to Know Me
+---
 
 - 🏫 A DIT (Diploma in Information Technology) student at **Polytechnic University of the Philippines Taguig Campus**  
 - 🌍 Iskolar ng Bayan  

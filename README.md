@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Clarence Villas!  
 
-  **🌱 Get to Know Me**  
+**🌱 Get to Know Me**  
 - 🏫 A DIT (Diploma in Information Technology) student at **Polytechnic University of the Philippines Taguig Campus**  
-- 🌍 Iskolar ng Bayan
-- 💡 Continuously learning, open to teamwork, and excited to take on new challenges.
+- 🌍 Iskolar ng Bayan  
+- 💡 Continuously learning, open to teamwork, and excited to take on new challenges.  
 
 ---
 
 🌐 **Socials**  
-[![Facebook](https://www.facebook.com/notdefinitelycla)  
-[![Instagram](https://www.instagram.com/misccy_/?fbclid=IwY2xjawMohsFleHRuA2FlbQIxMABicmlkETF6UGpHZmpJemNRdGdQVjhWAR7TWO9alVeCUrtxxEySfIxO4DZ0IME0P9YD1QutH5jPxpprxdec2NoEhNI1RA_aem_O5KPzBAFvWuhiQ_1Zzn3SQ)  
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/notdefinitelycla)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/misccy_)  
 
 ---
 
@@ -22,6 +21,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
+---
+
+👉 Check out more of my work [here](https://github.com/villas-clarence?tab=repositories).  
 
 ---
 
@@ -39,10 +41,3 @@
 
 ✍️ **Random Dev Quote**  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-🔝 **Top Contributed Repo**  
-![](https://github-contributor-stats.vercel.app/api?username=villas-clarence&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
-
----

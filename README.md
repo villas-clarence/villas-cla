@@ -1,5 +1,6 @@
 # 🌱 Get to Know Me
 
+- 👋 Hi, I'm Clarence Villas!  
 - 🏫 A DIT (Diploma in Information Technology) student at **Polytechnic University of the Philippines Taguig Campus**  
 - 🌍 Iskolar ng Bayan  
 - 💡 Continuously learning, open to teamwork, and excited to take on new challenges.  
@@ -30,8 +31,9 @@
 ---
 
 📊 **GitHub Stats**  
-![](https://github-readme-stats.vercel.app/api?username=villas-clarence&show_icons=true&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api?username=villas-clarence&show_icons=true&theme=tokyonight&include_all_commits=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=villas-clarence&theme=tokyonight)  
+
 
 ---
 

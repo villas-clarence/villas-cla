@@ -46,8 +46,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=villas-clarence&theme=dracula&no-frame=true&margin-w=15)  
 
 ---
-
-✍️ **Random Dev Quote**  
-> *["That brain of mine is something more than merely mortal, as time will show."](https://en.wikipedia.org/wiki/Ada_Lovelace)*  
-— Ada Lovelace  
+✍️ **Dev Quote**  
+![Ada Lovelace Quote](https://quotes-github-readme.vercel.app/api?quote=That%20brain%20of%20mine%20is%20something%20more%20than%20merely%20mortal,%20as%20time%20will%20show.&author=Ada%20Lovelace&type=horizontal&theme=radical)
 

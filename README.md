@@ -1,5 +1,5 @@
 # 🌱 Get to Know Me
----
+
 - 🏫 A DIT (Diploma in Information Technology) student at **Polytechnic University of the Philippines Taguig Campus**  
 - 🌍 Iskolar ng Bayan  
 - 💡 Continuously learning, open to teamwork, and excited to take on new challenges.  
@@ -24,8 +24,6 @@
 [![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)](https://getcomposer.org/)  
 
 ---
-
-
 
 👉 Check out more of my work [here](https://github.com/villas-clarence?tab=repositories).  
 

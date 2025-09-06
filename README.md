@@ -1,6 +1,6 @@
 # 🌱 Get to Know Me
 
-- 👋 Hi, I'm Clarence Villas!  
+- 👋 Hi, I'm Clarence Villas!
 - 🏫 A DIT (Diploma in Information Technology) student at **Polytechnic University of the Philippines Taguig Campus**  
 - 🌍 Iskolar ng Bayan  
 - 💡 Continuously learning, open to teamwork, and excited to take on new challenges.  

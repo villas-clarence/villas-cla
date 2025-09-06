@@ -26,15 +26,7 @@
 
 ---
 
-📌 **Projects / Featured Work**  
-Here are some repositories I’ve worked on:  
-
-- 🔹 [**villas-cla**](https://github.com/villas-clarence/villas-cla) – Personal profile & GitHub README customization  
-- 🔹 [**YourProject1**](https://github.com/villas-clarence/YourProject1) – *(short description here)*  
-- 🔹 [**YourProject2**](https://github.com/villas-clarence/YourProject2) – *(short description here)*  
-- 🔹 [**YourProject3**](https://github.com/villas-clarence/YourProject3) – *(short description here)*  
-
-👉 Check out more of my work [here](https://github.com/villas-clarence?tab=repositories).  
+📌 Check out more of my work [here](https://github.com/villas-clarence?tab=repositories).  
 
 ---
 

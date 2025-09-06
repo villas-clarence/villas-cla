@@ -1,5 +1,4 @@
-  **🌱 Get to Know Me**  
-
+# 🌱 Get to Know Me
 
 - 🏫 A DIT (Diploma in Information Technology) student at **Polytechnic University of the Philippines Taguig Campus**  
 - 🌍 Iskolar ng Bayan  
@@ -26,7 +25,9 @@
 
 ---
 
-📌 Check out more of my work [here](https://github.com/villas-clarence?tab=repositories).  
+
+
+👉 Check out more of my work [here](https://github.com/villas-clarence?tab=repositories).  
 
 ---
 
